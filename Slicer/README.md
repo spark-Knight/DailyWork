@@ -1,4 +1,4 @@
-#Email-Slicer
+# Email-Slicer
 
 This function slice the Email Id.
 
