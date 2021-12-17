@@ -13,4 +13,4 @@ PS C:\Users\dna83> & C:/Users/dna83/AppData/Local/Programs/Python/Python310/pyth
 Enter Your Email: dna8377850@gmail.com
 Your username is dna8377850 & domain is gmail.com
 
-So this is out:
+So this is output:
