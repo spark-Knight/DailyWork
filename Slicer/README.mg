@@ -1,10 +1,10 @@
-#Email-Slicer
+# Email-Slicer
 It's slice the Email Id.
 
 For Example:
 I will give input the function my Email id 
 
-#dna8377850@gmail.com#
+dna8377850@gmail.com
 
 This function take out my Username and Domain name
 
