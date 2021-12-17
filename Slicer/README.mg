@@ -1,5 +1,6 @@
-# Email-Slicer
-It's slice the Email Id.
+#Email-Slicer
+
+This function slice the Email Id.
 
 For Example:
 I will give input the function my Email id 
