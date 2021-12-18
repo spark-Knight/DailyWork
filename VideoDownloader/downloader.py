@@ -13,6 +13,7 @@ youtube = pytube.YouTube(videoName)
 # It's give good resolution of video which want
 video = youtube.streams.get_highest_resolution()  
 print("Downloading video...")
+# Add the path from where you have to download the video
 video.download('C:\\Users\\dna83\\OneDrive\\Desktop\\Your dad\\download files')  
 print("video downloaded successfully")
 
