@@ -1,1 +1,2 @@
-# This is for Fun Bro!!!!!
+# Common Function we want to Use Daily:-
+
